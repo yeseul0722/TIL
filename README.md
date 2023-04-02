@@ -5,8 +5,6 @@
 - git 초기화
 
 - git repo 생성
-  
-  
 
 insert 모드일 때
 
@@ -18,10 +16,6 @@ w,q 누르고 엔터 누르기
 
 q는 저장 안하고 끄는 것
 
-
-
-
-
 git remote add origin https://github.com/yeseul0722/TIL.git
 
 origin 별명 (origin 아니어도 됌)
@@ -29,10 +23,6 @@ origin 별명 (origin 아니어도 됌)
 origin 이라는 이름으로 원격 저장소 저장
 
 별명을 두는 이유: 주소창을 치는것보다 훨씬 간단
-
-
-
-
 
 - git remove  
   
@@ -45,5 +35,3 @@ origin 이라는 이름으로 원격 저장소 저장
   - git remote -v 상태 확인
   
   - 다시 git remote add origin
-
-
